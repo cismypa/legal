@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Stand Samstag, 23. Februar 2019 20:03, [Änderungshistorie](https://github.com/cismypa/legal/datenschutz.md)
+Stand Samstag, 23. Februar 2019 22:32, [Änderungshistorie](https://github.com/cismypa/legal/blob/master/datenschutz.md)
 
 ## 1 Wer ist verantwortlich für den Schutz Ihrer Daten?
 
@@ -245,4 +245,4 @@ Für uns ist es technisch nicht möglich mit Sicherheit zu verifizieren, ob es s
 
 Von Zeit zu Zeit werden wir diese Datenschutzerklärung aktualisieren. Das Datum der letzten Änderung findet sich immer am Anfang des Dokumentes. Wirksam ist die geänderte Erklärung sobald sie hier veröffentlicht wird. Sie sollten diese Seite entsprechend regelmäßig besuchen.
 
-Eine präzise Änderungshistorie ist [hier](https://github.com/cismypa/legal/datenschutz.md) zu finden.
+Eine präzise Änderungshistorie ist [hier](https://github.com/cismypa/legal/blob/master/datenschutz.md) zu finden.
