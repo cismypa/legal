@@ -1,6 +1,6 @@
 # Privacy policy
 
-Version 27.07.2019, 16:24, [history of change](https://github.com/cismypa/legal)
+Version 27.07.2019, 16:28, [history of change](https://github.com/cismypa/legal/blob/master/privacy-en.md)
 
 ## 1 Who is responsible for the protection of your data?
 
@@ -259,4 +259,4 @@ Technically we are not able to verify for sure whether a certain user is a child
 
 Every now and then we will update this privacy policy. The date of te latest change can always be found at the top of the document. The updated policy is operative as soon as it is published here. You should visit this site correspondingly regularly.
 
-A precise history of changes can be found [here](https://github.com/cismypa/legal).
+A precise history of changes can be found [here](https://github.com/cismypa/legal/blob/master/privacy-en.md).

@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Stand Samstag, 23. Februar 2019 22:32, [Änderungshistorie](https://github.com/cismypa/legal/blob/master/datenschutz.md)
+Stand Samstag, 27. Juni 2019 16:07, [Änderungshistorie](https://github.com/cismypa/legal/blob/master/datenschutz.md)
 
 ## 1 Wer ist verantwortlich für den Schutz Ihrer Daten?
 
@@ -22,12 +22,14 @@ Die der Einfachheit und Kürze halber verwendete Bezeichnung **Cismypa** ist kei
 Es geht um den Schutz Ihrer Daten.
 
 Es wird umfassend erklärt, was es damit auf sich hat, bzgl. aller folgenden Punkte:
+
 - im Allgemeinen
 - bei Besuch und Verwendung dieser Webseite
 - bei Besuch und Verwendung anderer Webseiten, die von Cismypa betrieben werden
 - bei Installation und Verwendung von unter der Bezeichnung Cismypa vertriebener Software, darunter auch Apps
 
 Für die vom Allgemeinen abweichenden Anwendungsbereiche werden hier jeweils eigene eindeutig bezeichnete Unterabschnitte zu finden sein. D.h. z.B. dass für die Anwendung auf Webseiten zu lesen wären:
+
 - das gesamte Dokument, bis auf Abschnitte, die mit "App(s)" oder "Software" überschrieben sind
 - zusätzlich Abschnitte, die "Webseite(n)" in der Überschrift tragen
 - evtl. Abschnitte, die mit der Bezeichnung einer konkreten Webseite betitelt sind
@@ -49,6 +51,7 @@ Gemäß [DSGVO Art. 13](https://dsgvo-gesetz.de/art-13-dsgvo/) / [DSGVO Art. 14]
 ### 3.1 Allgemein
 
 Die von uns verwendeten Technologien haben die Fähigkeit folgende Daten zu erfassen:
+
 - IP-Adresse Ihres Rechners oder Mobilgerätes (eine eindeutige Adresse im Internet)
 - Datum und Uhrzeit von Daten-Anfragen über das Internet
 - konkret von Ihnen abgerufene Dateien, Inhalte
@@ -59,10 +62,11 @@ Die von uns verwendeten Technologien haben die Fähigkeit folgende Daten zu erfa
 also lediglich übliche technische Daten. Es werden hier keinerlei Personendaten wie bspw. Name, Alter, Geschlecht, Adresse oder sonstige Kontaktdaten erfasst.
 
 Wir möchten die gelegentliche Nutzung der genannten Daten nicht ausschließen, zu folgenden Zwecken:
+
 - Erkennung und Analyse von technischen Fehlern auf unserer Seite oder feindlichen (in der Regel maschinellen) Angriffen
 - Verbesserung/Zuschnitt unseres Angebots im Sinne von vorrangig zu unterstützenden Browsern, Geräten
 
-dementsprechend also höchstens im moderaten Sinne von [DSGVO Art. 6 Abs. 1 lit. f](https://dsgvo-gesetz.de/art-13-dsgvo/).
+dementsprechend also höchstens im moderaten Sinne von [DSGVO Art. 6 Abs. 1 lit. f](https://dsgvo-gesetz.de/art-6-dsgvo/).
 
 ### 3.2 Bei Besuch/Verwendung unserer Webseiten
 
@@ -92,7 +96,7 @@ Allein die Installation einer App gilt als Einwilligung in diese Datenschutzerkl
 
 Das bedeutet auch, dass Sie diese Einwilligung durch einfache Deinstallation widerrufen können.
 
-Unsere Apps werden über gängige App-Stores betrieben, d.h. über Drittanbieter. Es besteht demzufolge kein direkter personenbezogener Kundenkontakt hinsichtlich der Kauftransaktion.
+Unsere Apps werden über gängige App-Stores vertrieben, d.h. über Drittanbieter. Es besteht demzufolge kein direkter personenbezogener Kundenkontakt hinsichtlich der Kauftransaktion.
 
 Ansonsten kann bei der Installation/Verwendung einer App zusätzlich zu den technische Daten von 3.1 und zum selben Zweck noch Folgendes übertragen werden:
 - Die eindeutige Geräte-Identifikationsnummer Ihres Mobilgeräts.
@@ -100,14 +104,15 @@ Ansonsten kann bei der Installation/Verwendung einer App zusätzlich zu den tech
 
 In periodischen Abständen werden die genannten Daten in aggregierter, anonymisierter Weise vom Drittanbieter des App-Stores erfasst und aufbereitet (siehe 3.2.1 und 5.2). Diese Übertragung geschieht übrigens nicht direkt durch die App selbst, sondern durch das unterliegende Betriebssystem.
 
-Die App selbst bewirkt keinerlei Datenübertragung, da derzeit ausschließlich Apps ohne Erfordernis einer Internetverbindung angeboten werden. D.h. insbesondere, dass alle Ihre innerhalb der App eingegebenen Daten nur lokal auf Ihrem Gerät gespeichert werden und nicht von außen einsehbar sind.
+Die App selbst bewirkt keinerlei Datenübertragung, da derzeit ausschließlich Apps ohne Erfordernis einer Internetverbindung angeboten werden. D.h. insbesondere, dass alle Ihre innerhalb der App eingegebenen Daten nur lokal auf Ihrem Gerät gespeichert werden und nicht von uns von außen einsehbar sind.
 
-Auch werden keinerlei GPS-Daten abgefragt, sprich Ihr Aufenthaltsort ist für uns nicht bestimmbar.
+Auch werden keinerlei GPS-Daten abgefragt, sprich Ihr Aufenthaltsort ist für uns darüber nicht bestimmbar.
 
 In den App-Stores besteht die Möglichkeit Bewertungen und Kommentare bzgl. unserer Apps zu hinterlassen. Hierfür sind die Datenschutzbestimmungen der Stores zu beachten (siehe 3.2.1). Wir möchten hier nur darauf hinweisen, dass alles was Sie dort hinterlassen, öffentlich sichtbar sein kann, zusammen mit mindestens Ihrem Nutzerpseudonym, wenn nicht gar dem Klarnamen, falls von Ihnen dort angegeben.
 
 #### 3.2.1 Links zum Datenschutz der verwendeten App-Stores
 
+- [Apple App Store](https://www.apple.com/legal/privacy/de-ww/)
 - [Google Play Store](https://policies.google.com/privacy)
 - [Microsoft Store](https://privacy.microsoft.com/en-US/privacystatement) (Windows Apps)
 
@@ -134,6 +139,7 @@ Sollten Wunsch oder Notwendigkeit bestehen, unrichtige Daten zu berichtigen oder
 Gemäß [DSGVO Art. 17](https://dsgvo-gesetz.de/art-17-dsgvo/).
 
 Sie haben das Recht, zu verlangen, dass Ihre Daten unverzüglich gelöscht werden. Dem leisten wir unverzüglich Folge, sofern einer der folgenden Gründe zutrifft:
+
 - Die Daten sind für die Zwecke, für die sie erhoben oder verarbeitet wurden, nicht mehr notwendig.
 - Sie haben Ihre Einwilligung zur Verarbeitung widerrufen.
 - Sie legen Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder sie legen Widerspruch aufgrund von Direktwerbung ein.
@@ -143,6 +149,7 @@ Sie haben das Recht, zu verlangen, dass Ihre Daten unverzüglich gelöscht werde
 Wir werden Ihre Daten niemals öffentlich machen. Andernfalls hätten wir auch noch die Pflicht, entsprechend hinzugekommene dritte Verantwortliche über das Verlangen zum Löschen bestimmter Daten, Links und Kopien zu informieren.
 
 Es muss nicht gelöscht werden, falls die Verarbeitung aus einem der folgenden Gründe erforderlich ist:
+
 - zur Ausübung des Rechts auf freie Meinungsäußerung und Information
 - Pflichten, die sich aus Gesetzen oder öffentlichem Interesse ergeben
 - zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen
@@ -152,8 +159,9 @@ Es muss nicht gelöscht werden, falls die Verarbeitung aus einem der folgenden G
 Gemäß [DSGVO Art. 18](https://dsgvo-gesetz.de/art-18-dsgvo/).
 
 Einschränken lässt sich die Verarbeitung in folgenden Situationen:
+
 - Für den Zeitraum der Untersuchung, ob die Datenerfassung rechtmäßig ist.
-- Wann immer eine Löschung möglich ist, kann alternativ die dauerhafte Einschränkung verlangt werden.
+- Wann immer eine Löschung möglich ist, kann alternativ eine dauerhafte Einschränkung verlangt werden.
 - Andersherum können Sie auch eine Löschung durch uns (was ja auch eine Verarbeitung durch uns darstellt) verhindern, wenn Sie die Daten noch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen.
 - Unmittelbar nachdem Sie der Verarbeitung widersprochen haben, solange noch nicht feststeht, ob berechtigte Gründe unsererseits gegenüber den Ihrigen überwiegen.
 
@@ -172,6 +180,7 @@ Etwaige andere Empfänger denen Ihre personenbezogenen Daten offengelegt wurden,
 Gemäß [DSGVO Art. 20](https://dsgvo-gesetz.de/art-20-dsgvo/).
 
 Sie haben das Recht Ihre Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten, oder sie einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, falls
+
 - die Verarbeitung auf einer Einwilligung oder auf einem Vertrag beruht und
 - die Verarbeitung mithilfe automatisierter Verfahren erfolgt und
 - dabei nicht die Rechte oder Freiheiten anderer Personen beeinträchtigt werden.
@@ -186,13 +195,13 @@ Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeb
  - im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, oder
  - zur Wahrung unserer berechtigten Interessen oder der eines Dritten erforderlich ist, und nicht Ihre Interessen oder Grundrechte überwiegen.
  
- Dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. (Profiling ist der Versuch, durch Datenerhebung, Statistik und automatisierte Verarbeitung das Verhalten von Personen vorherzusagen und entsprechende Entscheidungen zu treffen.)
+Dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. (Profiling ist der Versuch, durch Datenerhebung, Statistik und automatisierte Verarbeitung das Verhalten von Personen vorherzusagen und entsprechende Entscheidungen zu treffen.)
  
- Nach einem Widerspruch verarbeiten wir die personenbezogenen Daten nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen. Oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Nach einem Widerspruch verarbeiten wir die personenbezogenen Daten nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen. Oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
  
- Wird mit den Daten Direktwerbung betrieben, so haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung zum Zwecke derartiger Werbung einzulegen. Dies gilt auch für das Profiling, soweit es mit dieser Direktwerbung in Verbindung steht.
+Wird mit den Daten Direktwerbung betrieben, so haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung zum Zwecke derartiger Werbung einzulegen. Dies gilt auch für das Profiling, soweit es mit dieser Direktwerbung in Verbindung steht.
  
- Derartiger Widerspruch zeigt uneingeschränkt sofortige Wirkung.
+Derartiger Widerspruch zeigt uneingeschränkt sofortige Wirkung.
  
 ### 4.8 Widerspruchsrecht, Ergänzungen
  
@@ -221,7 +230,8 @@ Sie haben das Recht auf Beschwerde bei einer [zuständigen Aufsichtsbehörde](ht
 ### 5.1 Offenlegung Ihrer Daten
 
 Unter folgenden besonderen Umständen kann es unser Recht oder unsere Pflicht sein, Ihre Daten offenzulegen:
-- um gesetztlicher Pflicht nachzukommen,
+
+- um gesetzlicher Pflicht nachzukommen,
 - unsere Rechte oder unser Eigentum zu schützen,
 - Missbrauch unserer angebotenen Produkte zu verhindern oder aufzudecken,
 - die persönliche Sicherheit anderer Nutzer oder die öffentliche Sicherheit zu gewährleisten, oder
