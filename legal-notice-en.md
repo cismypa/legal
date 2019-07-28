@@ -1,4 +1,4 @@
-# Legal notice
+# Legal Notice
 
 According to [§ 5 TMG](https://www.gesetze-im-internet.de/tmg/__5.html).
 

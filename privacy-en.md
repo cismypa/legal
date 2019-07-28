@@ -1,6 +1,6 @@
-# Privacy policy
+# Privacy Policy
 
-Version 27.07.2019, 16:28, [history of change](https://github.com/cismypa/legal/blob/master/privacy-en.md)
+Version 28.07.2019, 18:11, [history of change](https://github.com/cismypa/legal/blob/master/privacy-en.md)
 
 ## 1 Who is responsible for the protection of your data?
 
