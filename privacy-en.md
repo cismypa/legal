@@ -1,14 +1,14 @@
 # Privacy Policy
 
-Version 28.07.2019, 18:11, [history of change](https://github.com/cismypa/legal/blob/master/privacy-en.md)
+Version 11.8.23, 16:56, [history of change](https://github.com/cismypa/legal/blob/master/privacy-en.md)
 
 ## 1 Who is responsible for the protection of your data?
 
 Responsible for the protection of the privacy of your data here is:
 
 Development Dr. rer. nat. Markus Borris  
-Nürnberger Str. 15  
-01187 Dresden  
+Neuer Weg 2c  
+01239 Dresden  
 Sachsen, Germany
 
 Email: devmborris@gmail.com

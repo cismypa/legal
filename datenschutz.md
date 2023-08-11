@@ -1,14 +1,14 @@
 # Datenschutzerklärung
 
-Stand Samstag, 27. Juni 2019 16:07, [Änderungshistorie](https://github.com/cismypa/legal/blob/master/datenschutz.md)
+Stand 11.8.23, 16:56, [Änderungshistorie](https://github.com/cismypa/legal/blob/master/datenschutz.md)
 
 ## 1 Wer ist verantwortlich für den Schutz Ihrer Daten?
 
 Verantwortlich für den Schutz Ihrer Daten ist hier:
 
 Development Dr. rer. nat. Markus Borris  
-Nürnberger Str. 15  
-01187 Dresden  
+Neuer Weg 2c  
+01239 Dresden  
 Sachsen, Deutschland (Germany)
 
 Email: devmborris@gmail.com
