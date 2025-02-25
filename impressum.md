@@ -3,8 +3,8 @@
 Gemäß [§ 5 TMG](https://www.gesetze-im-internet.de/tmg/__5.html).
 
 Development Dr. rer. nat. Markus Borris  
-Nürnberger Str. 15  
-01187 Dresden  
+Neuer Weg 2c  
+01239 Dresden  
 Sachsen, Deutschland (Germany)
 
 Email: devmborris@gmail.com
